@@ -1,4 +1,4 @@
-module github.com/0xTomoyo/go-ethereum
+module github.com/fqlx/go-ethereum
 
 go 1.18
 
